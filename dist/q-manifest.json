@@ -1,5 +1,5 @@
 {
-  "manifestHash": "yaq8k2",
+  "manifestHash": "sttyos",
   "symbols": {
     "s_AkbU84a8zes": {
       "origin": "app.tsx",
@@ -11,59 +11,42 @@
       "captures": false,
       "parent": null,
       "loc": [
-        183,
-        787
-      ]
-    },
-    "s_jlIwHzFTZN4": {
-      "origin": "app.tsx",
-      "displayName": "App_component__Fragment_div_button_onClick",
-      "canonicalFilename": "s_jliwhzftzn4",
-      "hash": "jlIwHzFTZN4",
-      "ctxKind": "eventHandler",
-      "ctxName": "onClick$",
-      "captures": true,
-      "parent": "s_AkbU84a8zes",
-      "loc": [
-        610,
-        629
+        266,
+        2628
       ]
     }
   },
   "mapping": {
-    "s_AkbU84a8zes": "entry_App-DPu9LkTj.js",
-    "s_jlIwHzFTZN4": "entry_App-DPu9LkTj.js"
+    "s_AkbU84a8zes": "entry_App-Bmo2V5lY.js"
   },
   "bundles": {
-    "core.min-2KWP_i8q.js": {
-      "size": 46182,
+    "core.min-BETrtskq.js": {
+      "size": 45559,
       "origins": [
         "node_modules/@builder.io/qwik/core.min.mjs"
       ]
     },
-    "entry_App-DPu9LkTj.js": {
-      "size": 2292,
+    "entry_App-Bmo2V5lY.js": {
+      "size": 2426,
       "imports": [
-        "core.min-2KWP_i8q.js"
+        "core.min-BETrtskq.js"
       ],
       "origins": [
-        "src/assets/qwik.svg",
+        "src/assets/intranetlivre.svg",
         "src/entry_App.js",
-        "src/s_akbu84a8zes.js",
-        "src/s_jliwhzftzn4.js"
+        "src/s_akbu84a8zes.js"
       ],
       "symbols": [
-        "s_AkbU84a8zes",
-        "s_jlIwHzFTZN4"
+        "s_AkbU84a8zes"
       ]
     },
-    "index-DP3ISneB.js": {
+    "index-DNWIu05A.js": {
       "size": 2278,
       "imports": [
-        "core.min-2KWP_i8q.js"
+        "core.min-BETrtskq.js"
       ],
       "dynamicImports": [
-        "entry_App-DPu9LkTj.js"
+        "entry_App-Bmo2V5lY.js"
       ],
       "origins": [
         "index.html",
@@ -80,8 +63,8 @@
       "tag": "style",
       "location": "head",
       "attributes": {
-        "data-src": "/assets/index-CLu_TMpp.css",
-        "dangerouslySetInnerHTML": "#app{max-width:1280px;margin:0 auto;padding:2rem;text-align:center}.logo{height:6em;padding:1.5em}.logo:hover{filter:drop-shadow(0 0 2em #646cffaa)}.logo.qwik:hover{filter:drop-shadow(0 0 2em #673ab8aa)}.card{padding:2em}.read-the-docs{color:#888}:root{font-family:Inter,system-ui,Avenir,Helvetica,Arial,sans-serif;line-height:1.5;font-weight:400;color-scheme:light dark;color:#ffffffde;background-color:#242424;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a{font-weight:500;color:#646cff;text-decoration:inherit}a:hover{color:#535bf2}body{margin:0;display:flex;place-items:center;min-width:320px;min-height:100vh}h1{font-size:3.2em;line-height:1.1}button{border-radius:8px;border:1px solid transparent;padding:.6em 1.2em;font-size:1em;font-weight:500;font-family:inherit;background-color:#1a1a1a;cursor:pointer;transition:border-color .25s}button:hover{border-color:#646cff}button:focus,button:focus-visible{outline:4px auto -webkit-focus-ring-color}@media (prefers-color-scheme: light){:root{color:#213547;background-color:#fff}a:hover{color:#747bff}button{background-color:#f9f9f9}}\n"
+        "data-src": "/assets/index-bJFChufb.css",
+        "dangerouslySetInnerHTML": "@tailwind base;@tailwind components;@tailwind utilities;:root{font-family:Inter,system-ui,Avenir,Helvetica,Arial,sans-serif;line-height:1.5;font-weight:400;color-scheme:light dark;color:#ffffffde;background-color:#242424;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a{font-weight:500;color:#646cff;text-decoration:inherit}a:hover{color:#535bf2}body{margin:0;display:flex;place-items:center;min-width:320px;min-height:100vh}h1{font-size:3.2em;line-height:1.1}button{border-radius:8px;border:1px solid transparent;padding:.6em 1.2em;font-size:1em;font-weight:500;font-family:inherit;background-color:#1a1a1a;cursor:pointer;transition:border-color .25s}button:hover{border-color:#646cff}button:focus,button:focus-visible{outline:4px auto -webkit-focus-ring-color}@media (prefers-color-scheme: light){:root{color:#213547;background-color:#fff}a:hover{color:#747bff}button{background-color:#f9f9f9}}\n"
       }
     }
   ],
